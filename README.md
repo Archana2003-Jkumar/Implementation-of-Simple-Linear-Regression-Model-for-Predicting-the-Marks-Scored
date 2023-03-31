@@ -81,12 +81,17 @@ print("Population = 70000 , we predict a profit of $"+str(round(pred2,0)))
 ```
 
 ## Output:
-![Screenshot 2023-03-31 133122](https://user-images.githubusercontent.com/93427594/229062297-1ef196a6-b281-4bcc-a24e-742d241bb381.png)
-![Screenshot 2023-03-31 133209](https://user-images.githubusercontent.com/93427594/229062328-89efc909-cc65-48e4-aff4-a94a9f7e4bfc.png)
-![Screenshot 2023-03-31 133229](https://user-images.githubusercontent.com/93427594/229062349-ae652182-c682-4f09-947d-f20efbc91ac7.png)
-![Screenshot 2023-03-31 133309](https://user-images.githubusercontent.com/93427594/229062393-fe5dff40-d3b2-4d66-8ba7-674aac8730ff.png)
-![Screenshot 2023-03-31 133345](https://user-images.githubusercontent.com/93427594/229062411-fc4b4ba4-2fee-4271-96ed-b0e663073ca6.png)
-![Screenshot 2023-03-31 133402](https://user-images.githubusercontent.com/93427594/229062167-1a79aef2-7c60-4098-9bbc-0e123542978d.png)
 
+![Screenshot 2023-03-31 133122](https://user-images.githubusercontent.com/93427594/229062297-1ef196a6-b281-4bcc-a24e-742d241bb381.png)
+
+![Screenshot 2023-03-31 133209](https://user-images.githubusercontent.com/93427594/229062328-89efc909-cc65-48e4-aff4-a94a9f7e4bfc.png)
+
+![Screenshot 2023-03-31 133229](https://user-images.githubusercontent.com/93427594/229062349-ae652182-c682-4f09-947d-f20efbc91ac7.png)
+
+![Screenshot 2023-03-31 133309](https://user-images.githubusercontent.com/93427594/229062393-fe5dff40-d3b2-4d66-8ba7-674aac8730ff.png)
+
+![Screenshot 2023-03-31 133345](https://user-images.githubusercontent.com/93427594/229062411-fc4b4ba4-2fee-4271-96ed-b0e663073ca6.png)
+
+![Screenshot 2023-03-31 133402](https://user-images.githubusercontent.com/93427594/229062167-1a79aef2-7c60-4098-9bbc-0e123542978d.png)
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
