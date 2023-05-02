@@ -71,23 +71,7 @@ print("RMSE = ",rmse)
 ```
 
 ## Output:
-![e2](https://user-images.githubusercontent.com/93427594/229067440-558a9593-b90c-4b41-a091-53ca3dcf8814.png)
-
-![e21](https://user-images.githubusercontent.com/93427594/229067570-aeb46c9d-fd9b-4106-ae71-eea1c8123e02.png)
-
-![Screenshot 2023-03-31 135446](https://user-images.githubusercontent.com/93427594/229067891-edafa1ce-7c2a-4a0f-823c-192b53a77320.png)
-
-![Screenshot 2023-03-31 135507](https://user-images.githubusercontent.com/93427594/229067912-d328278c-559e-4162-bef4-b40d7cdd8a68.png)
-
-![Screenshot 2023-03-31 135522](https://user-images.githubusercontent.com/93427594/229067932-bbf5c1f0-4e31-4c8c-8342-cc2db058d596.png)
-
-![Screenshot 2023-03-31 135539](https://user-images.githubusercontent.com/93427594/229067959-2059b5f5-9243-4f21-8117-c7430b01f0ad.png)
-
-
-![Screenshot 2023-03-31 135557](https://user-images.githubusercontent.com/93427594/229067984-38643270-05d9-4336-a93b-31045702736e.png)
-
-![Screenshot 2023-03-31 135617](https://user-images.githubusercontent.com/93427594/229067999-07af7d3b-62f9-4f10-a407-719b29037dab.png)
-
+*df.tail()*
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
