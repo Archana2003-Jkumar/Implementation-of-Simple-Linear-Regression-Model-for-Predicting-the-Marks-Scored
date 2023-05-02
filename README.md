@@ -77,6 +77,20 @@ print("RMSE = ",rmse)
  ![image](https://user-images.githubusercontent.com/93427594/235606104-3e2877a0-5f5a-44ae-9c78-3ddce1c67868.png)
 ### Array value of x
  ![image](https://user-images.githubusercontent.com/93427594/235606413-a520d770-0509-41d9-a45c-c0ab484796cf.png)
+### Array value of y
+![image](https://user-images.githubusercontent.com/93427594/235606918-989c06c6-98a3-487f-b042-e57391c394bc.png)
+### Values of y prediction
+![image](https://user-images.githubusercontent.com/93427594/235607035-d284d20a-3e50-45c4-834c-5e4f5dadfb9b.png)
+### Array values of y test
+![image](https://user-images.githubusercontent.com/93427594/235607218-f06babf8-551f-444d-92b2-5b03a623059b.png)
+
+### Training set graph
+![image](https://user-images.githubusercontent.com/93427594/235607437-7b61c240-3621-46a1-a903-5104c9d52ed3.png)
+### Test set graph
+![image](https://user-images.githubusercontent.com/93427594/235607509-58f42675-0610-4c73-99c1-8a0ac14cf50c.png)
+### Values of MSE,MAE,RMSE
+![image](https://user-images.githubusercontent.com/93427594/235607565-01973870-3a90-4ee8-af80-b5e1963ea8cc.png)
+
 
 
 
