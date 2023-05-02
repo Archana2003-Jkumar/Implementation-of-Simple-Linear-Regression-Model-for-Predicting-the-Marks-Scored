@@ -71,7 +71,14 @@ print("RMSE = ",rmse)
 ```
 
 ## Output:
-*df.tail()*
+### df.head()
+![image](https://user-images.githubusercontent.com/93427594/235605833-a77c219f-4bed-4722-b52f-ea7ebdcc81cb.png)
+### df.tail()
+ ![image](https://user-images.githubusercontent.com/93427594/235606104-3e2877a0-5f5a-44ae-9c78-3ddce1c67868.png)
+### Array value of x
+ ![image](https://user-images.githubusercontent.com/93427594/235606413-a520d770-0509-41d9-a45c-c0ab484796cf.png)
+
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
